@@ -1,0 +1,19 @@
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore swap files / temp files
+*~
+*.swp
+*.swo
+
+# Ignore logs
+*.log
+
+# Ignore history / local configs
+.history
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
