@@ -16,7 +16,12 @@ CyberAudit.sh - All-in-One Advanced VAPT &amp; Recon Automation Script for Web &
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/CyberAudit.git
+git clone https://github.com/404nexus/CyberAudit.git
 cd CyberAudit
-bash scripts/install.sh
+bash install.sh
+```
+## how to Use
+```bash
+chmod +x CyberAudit.sh
+./CyberAudit.sh <target>
 ```
